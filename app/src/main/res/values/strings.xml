@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Retrofit2_CRUD</string>
+    <string name="add_user">Add User</string>
+</resources>

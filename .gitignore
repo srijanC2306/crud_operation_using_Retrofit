@@ -1,0 +1,8 @@
+import 'package:flutter/material.dart';
+
+class ProfileTile extends StatelessWidget {
+  final title;
+  final subtitle;
+  final textColor;
+  ProfileTile({this.title, this.subtitle, this.textColor = Colors.black});
+  @ove
